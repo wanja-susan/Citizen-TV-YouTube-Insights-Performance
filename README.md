@@ -2,7 +2,7 @@
 
 ![Citizen TV G](https://github.com/user-attachments/assets/69916b09-488c-42e5-844f-de479b3a385a)
 
-For this project, I used the YouTube Data API to retrieve and analyze statistics for selected YouTube channels: NTV, KTN News, Citizen TV, and KBC. The script extracts data like channel statistics, video details, and provides visualizations to gain insights into the performance of the channels and their content. I later narrowed down my research to Citizen TV, where I conducted a detailed analysis and created a dashboard.
+For this project, I used the YouTube Data API to retrieve and analyze statistics for selected YouTube channels: NTV, KTN News, Citizen TV, and KBC. The script extracts data like channel statistics, video details, and provides visualizations to gain insights into the performance of the channels and their content. With Citizen TV having the most engagements in terms of views, comments and subscribers, (from my analysis using python) I later narrowed down my research to Citizen TV, where I conducted a detailed analysis and created a dashboard.
 
 # Features
 
